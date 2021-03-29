@@ -8,9 +8,9 @@ package fs112b.latihan51.gajikaryawan;
 import java.util.Scanner;
 /**
  * @author
- * NAMA     : Muhammad Aldi wijaya
- * KELAS    : PBO2
- * NIM      : 2022428931
+ * NAMA     : Eggi Firman Saputra
+ * KELAS    : PBO/ FS112B
+ * NIM      : 2022429952
  * Deskripsi Program : Menghitung gaji total berdasarkan tunjangan golongan, jabatan dan kehadiran
  *
  */
